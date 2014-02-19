@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "Breda Blocker",
     "version": "1.0",
-    "description": "Hide Breda O'Brien and John Waters frmo the Irish Times Website",
+    "description": "Hide Breda O'Brien and John Waters from the Irish Times Website",
     "icons":{
         "128": "icon_128.png",
         "48": "icon_48.png"
